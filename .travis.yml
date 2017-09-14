@@ -4,5 +4,3 @@ node_js:
   - "iojs"
   - "7"
   - "6"
-
-script: node app.js
