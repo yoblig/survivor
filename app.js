@@ -2,7 +2,7 @@ const express = require('express');
 const app = express();
 
 app.get('/', function(req, res){
-  res.send('Survivor Heroku');
+  res.send('Survivor -> Git -> Travis -> Heroku');
 });
 
 app.listen(process.env.PORT || 3000, function(){
