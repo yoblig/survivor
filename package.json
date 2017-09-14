@@ -1,0 +1,19 @@
+{
+  "name": "survivor",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yoblig/survivor.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yoblig/survivor/issues"
+  },
+  "homepage": "https://github.com/yoblig/survivor#readme"
+}
