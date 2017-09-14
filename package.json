@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/yoblig/survivor/issues"
   },
-  "homepage": "https://github.com/yoblig/survivor#readme"
+  "homepage": "https://github.com/yoblig/survivor#readme",
+  "dependencies": {
+    "express": "^4.15.4"
+  }
 }
